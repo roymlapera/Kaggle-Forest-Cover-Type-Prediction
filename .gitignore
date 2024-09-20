@@ -160,3 +160,8 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Dataset Test (Large File for GitHub)
+# Only needed to report results to Kaggle in the last stage of the proyect
+# I decide not to include it before that
+data/raw/test.csv
